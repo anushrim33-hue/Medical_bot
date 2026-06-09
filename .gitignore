@@ -1,0 +1,14 @@
+﻿.android/
+.antigravity/
+.aws/
+.cache/
+.copilot/
+.gemini/
+.gradle/
+.kiro/
+.matplotlib/
+.vscode/
+AppData/
+OneDrive/
+*.log
+NTUSER.DAT*
